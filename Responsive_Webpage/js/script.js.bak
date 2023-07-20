@@ -333,4 +333,4 @@ function insertItemPortionName(html,
 
 
 global.$dc = dc;
-})(global);
+})(window);
