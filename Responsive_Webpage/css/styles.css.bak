@@ -7,6 +7,14 @@ body {
   color: blue;
 }
 
-.workExp {
+.homePage{
 	padding:25px;
+}
+
+.workExp {
+	padding-top:50px;
+}
+
+#infoEntries {
+	padding: 25px;
 }

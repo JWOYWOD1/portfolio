@@ -12,5 +12,10 @@ body {
 }
 
 .workExp {
-	padding:25px;
+	padding-top:50px;
+}
+
+#infoEntries {
+	background-color:white;
+	padding: 25px;
 }
