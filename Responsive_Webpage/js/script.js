@@ -102,7 +102,7 @@ dc.loadWorkExpHTML = function(){
 	showLoading("#main-content");
   $ajaxUtils.sendGetRequest(
     workExpHtml,
-	buildWorkExpHtml,
+	buildWorkExpHTML,
     false);
 };
 
