@@ -2,7 +2,11 @@ body {
 	background-color:#9fc5e8;
 }
 /* # = id, . = class */
+/*
+							________
+				MARGIN|||||BORDER|||PADDDING|||CONTENT|||PADDING|||BORDER|||MARGIN
 
+*/
 .navbar-brand {
   color: blue;
 }
@@ -17,7 +21,7 @@ body {
 
 .infoEntries {
 	background-color:white;
-	padding-bottom: 45px;
+	margin-bottom: 45px;
 }
 
 .date{
