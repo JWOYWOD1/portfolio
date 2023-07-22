@@ -7,15 +7,15 @@ body {
   color: blue;
 }
 
-.homePage{
+#homePage{
 	padding:25px;
 }
 
-.workExp {
+#workExp {
 	padding-top:50px;
 }
 
-#infoEntries {
+.infoEntries {
 	background-color:white;
 	padding: 25px;
 }
