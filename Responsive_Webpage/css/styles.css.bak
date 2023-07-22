@@ -19,3 +19,7 @@ body {
 	background-color:white;
 	padding: 25px;
 }
+
+.date{
+	text-align:right;
+}
