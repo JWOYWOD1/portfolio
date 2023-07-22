@@ -102,7 +102,8 @@ dc.loadWorkExpHTML = function(){
 	showLoading("#main-content");
   $ajaxUtils.sendGetRequest(
     workExpHtml,
-    buildWorkExpHTML);
+	buildWorkExpHtml,
+    false);
 };
 
 function buildWorkExpHTML (categories) {
