@@ -1,5 +1,5 @@
 body {
-	background-color:blue;
+	background-color:#9fc5e8;
 }
 /* # = id, . = class */
 
@@ -17,7 +17,7 @@ body {
 
 .infoEntries {
 	background-color:white;
-	padding-bottom: 25px;
+	padding-bottom: 45px;
 }
 
 .date{
