@@ -1,8 +1,10 @@
-<div>ghjf
+<div id = workExp class="row">
+	<div>ghjf
 	
-	<ul>
-		<li>ytjnrtyj</li>
-		<li>tyjnrty</li>
-		<li>yrjnrty</li>
-	</ul>
-</div>	
+		<ul>
+			<li>ytjnrtyj</li>
+			<li>tyjnrty</li>
+			<li>yrjnrty</li>
+		</ul>
+	</div>	
+</div>

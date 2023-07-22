@@ -1,9 +1,16 @@
 body {
 	background-color:blue;
-	padding: 20px;
 }
 
 
 .navbar-brand {
   color: blue;
+}
+
+.homePage{
+	padding:25px;
+}
+
+.workExp {
+	padding:25px;
 }

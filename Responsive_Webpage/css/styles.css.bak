@@ -6,3 +6,7 @@ body {
 .navbar-brand {
   color: blue;
 }
+
+.workExp {
+	padding:25px;
+}
