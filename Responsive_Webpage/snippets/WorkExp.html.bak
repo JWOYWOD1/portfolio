@@ -1,7 +1,8 @@
 <div id = "workExp" class="row">
+	<h1>Work Experience</h1>
 	<div class = "infoEntries rounded col-12 job"><b>Freelance Data Analysis Support</b>
 		<span class="date">June 2020 – Current</span>
-		<ul>
+		<ul class = "details">
 			<li>Provide ongoing support for multiple clients’ live and virtual meetings, conferences, websites, and other sources validating data for implementation</li>
 			<li>Review and correct data inconsistencies between registration data, hotel rooming lists, breakout assignments, ground transportation arrangements, hotel proposals, event website/app implementation and testing</li>
 			<li>Current Clients: Blue Goose Events and Marketing, Epsilon Partners, LEO Events, KMW Events, Inc., MEZ Creative</li>
@@ -9,7 +10,7 @@
 	</div>
 	<div class = "infoEntries rounded col-12 job"><b>Software Systems Trainee</b>
 		<span class="date">June 2022 – February 2023</span>
-		<ul>
+		<ul class = "details">
 			<li>Quickly learned how to operate established factory management and production software</li>
 			<li>Worked with Quality Assurance to test production behavior for machines</li>
 			<li>Processed support tickets in Quality Assurance to determine whether issues with software had been resolved</li>
