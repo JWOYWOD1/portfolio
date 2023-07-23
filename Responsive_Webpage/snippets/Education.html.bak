@@ -11,7 +11,7 @@
 	</div>	
 	<h1 class = "title rounded infoEntries">Completed Online Cource Certifications</h1>
 	<div class = "infoEntries rounded col-md-6 col-sm-12 job">
-		<a href = "https://coursera.org/share/1efae67d981b711714a72a9eb704e908">Google Data Analytics</a>
+		<a href = "https://coursera.org/share/1efae67d981b711714a72a9eb704e908" target="_blank">Google Data Analytics</a>
 		<ul class = "details">What I Learned:
 			<li>Gained an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job</li>
 			<li>Learned key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau)</li>
@@ -20,7 +20,7 @@
 		</ul>	
 	</div>
 	<div class = "infoEntries rounded col-md-6 col-sm-12 job">
-		<a href = "https://coursera.org/share/8046ef040f8518a8e21e10b74046810f">HTML, CSS, and Javascript for Web Developers</a>
+		<a href = "https://coursera.org/share/8046ef040f8518a8e21e10b74046810f" target="_blank">HTML, CSS, and Javascript for Web Developers</a>
 		<ul class = "details">What I Learned:
 			<li>HTML</li>
 			<li>Cascading Style Sheets (CSS)</li>

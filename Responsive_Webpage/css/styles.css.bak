@@ -36,3 +36,7 @@ body {
 .details{
 	font-size:16px;
 }
+
+.title {
+	text-align:center;
+}
