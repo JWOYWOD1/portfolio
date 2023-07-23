@@ -1,5 +1,5 @@
 <div id = "education" class = "row">
-	<h1 class = "title rounded infoEntries">Education</h1>
+	<h1 class = "infoEntries title rounded">Education</h1>
 	<div class = "infoEntries rounded col-12 job">Depaul University, Chicago, IL
 		<span>Graduated June 2020</span>
 		<ul class = "details">
@@ -9,7 +9,7 @@
 			<li>Honors: magna cum laude (GPA: 3.7)</li>
 		</ul>
 	</div>	
-	<h1 class = "title rounded infoEntries">Completed Online Cource Certifications</h1>
+	<h1 class = "title rounded">Completed Online Cource Certifications</h1>
 	<div class = "infoEntries rounded col-md-6 col-sm-12 job">
 		<a href = "https://coursera.org/share/1efae67d981b711714a72a9eb704e908" target="_blank">Google Data Analytics</a>
 		<ul class = "details">What I Learned:
@@ -19,7 +19,7 @@
 			<li>Learned how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms</li>
 		</ul>	
 	</div>
-	<div class = "infoEntries rounded col-md-6 col-sm-12 job">
+	<div class = "rounded col-md-6 col-sm-12 job">
 		<a href = "https://coursera.org/share/8046ef040f8518a8e21e10b74046810f" target="_blank">HTML, CSS, and Javascript for Web Developers</a>
 		<ul class = "details">What I Learned:
 			<li>HTML</li>
