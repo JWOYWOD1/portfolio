@@ -103,6 +103,27 @@ function buildWorkExpHTML (categories) {
     false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
 }
 
+dc.loadEduHTML = function(){
+	showLoading("#main-content");
+  $ajaxUtils.sendGetRequest(
+    eduHtml,
+	buildEduHTML,
+    false);
+};
+
+function buildEduHTML (categories) {
+
+  // Load home snippet page
+  $ajaxUtils.sendGetRequest(
+    eduHtml,
+    function (eduHtml) {
+
+     
+		insertHtml("#main-content", eduHtml);
+    },
+    false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
+}
+
 
 // Given array of category objects, returns a random category object.
 function chooseRandomCategory (categories) {
