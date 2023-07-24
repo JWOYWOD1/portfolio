@@ -1,7 +1,7 @@
 <div id = "education" class = "row">
 	<h1 class = "infoEntries title rounded">Education</h1>
 	<div class = "infoEntries rounded col-12 job">Depaul University, Chicago, IL
-		<span>Graduated June 2020</span>
+		<span class="date">Graduated June 2020</span>
 		<ul class = "details">
 			<li>Bachelor of Science in Computer Science</li>
 			<li>Concentration in Software Development</li>
