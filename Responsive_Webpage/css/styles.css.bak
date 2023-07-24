@@ -16,12 +16,18 @@ body {
 }
 
 #workExp {
-	padding-top:50px;
+	/* padding-top:50px; */
+}
+
+#education {
+	/* padding-top:50px; */
 }
 
 .infoEntries {
 	background-color:white;
-	margin-bottom: 45px;
+	margin-right:10px;
+	margin-left:10px;
+	margin-bottom: 20px;
 }
 
 .date{
@@ -41,4 +47,5 @@ body {
 	text-align:center;
 	background-color:white;
 	margin-bottom: 20px;
+	margin-top:50px;
 }
